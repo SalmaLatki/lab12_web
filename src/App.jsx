@@ -76,7 +76,9 @@ export default function App() {
             <a href="mailto:you@example.com">you@example.com</a> ·{' '}
             <a href="https://github.com/SalmaLatki/lab12_web" target="_blank" rel="noreferrer">GitHub</a>
           </p>
+          <p>Success fullu deployed</p>
         </section>
+        
       </main>
 
       <footer className="site-footer">

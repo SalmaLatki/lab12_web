@@ -2,7 +2,7 @@
 
 A responsive personal homepage built with React + Vite.
 
-**Live site:** https://YOUR-SITE-NAME.vercel.app  <!-- replace with your real URL -->
+**Live site:** https://lab12-web-one.vercel.app <!-- replace with your real URL -->
 
 ## Run locally
 ```bash
